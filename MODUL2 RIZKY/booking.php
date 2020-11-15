@@ -14,7 +14,7 @@
         $img = "";
      foreach($deshotel as $data){
             if ($data['id'] == $_GET['id']) {
-                $price    = $data['price'];
+                $price  = $data['price'];
                 $img    = $data['image'];
                 $type   = $data['room'];
             }
