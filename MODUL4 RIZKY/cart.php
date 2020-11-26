@@ -69,7 +69,7 @@ $database = new database();
 
   <thead>
     <tr>
-      <th scope="col">No/th>
+      <th scope="col">No</th>
       <th scope="col">Harga</th>
       <th scope="col">Nama Barang</th>
       <th scope="col">Aksi</th>
